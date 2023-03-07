@@ -10,7 +10,7 @@ import time, random, ast, sys, re, os, json, subprocess, threading, string, code
 from gtts import gTTS
 
 trev = Trevor.LINE()
-trev.login(token="YOUR TOKEN KONTOL")
+trev.login(token="YOUR TOKEN")
 trev.loginResult()
 print(""" ________        __  _            _                      ______
 /_  __/ / ___   / /_(___ _ ___   (____   ___ ___ _    __/ / / /
